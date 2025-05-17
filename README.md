@@ -1,4 +1,8 @@
-# SmartHome Backend Controllers
+
+# SmartHome Backend DB Server
+A scalable MongoDB database and a robust, modular, and production-ready smart home backend system. This system provides APIs for managing users, homes, rooms, devices, device states, sensor data, and emergency actions. It supports scalable and secure data handling using MongoDB, integrated with real-time updates and reliable route validation.
+
+## SmartHome Backend Controllers
 ![image](https://github.com/user-attachments/assets/f678931b-50b2-4fd9-87eb-932dced41665)
 
 
